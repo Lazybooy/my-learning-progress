@@ -17,3 +17,12 @@ Started programming class with Python. (Progres 60%)
 
   * Belajar tipe data koleksi, seperti list, set, dan tuple.
 
+***25 May 2021***  
+Started programming class with Python. (Progres 100%)
+
+  * Belajar konsep OOP.
+
+  * Belajar Class dan Fungsi.
+
+  * Belajar Import dan Export data.
+
